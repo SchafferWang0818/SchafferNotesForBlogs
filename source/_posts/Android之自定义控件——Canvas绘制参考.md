@@ -1,5 +1,5 @@
 ---
-title: Canvas 绘制
+title: Android自定义控件之Canvas 绘制
 categories: "android 总结"
 tags: 
      - android

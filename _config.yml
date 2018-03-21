@@ -10,9 +10,10 @@ author: SchafferWang
 language: zh-Hans
 avatar: "https://i.imgur.com/hwLvP2j.jpg"
 social:
-  GitHub: https://github.com/SchafferWang0818
-  Weibo: https://weibo.com/5055805571/profile?topnav=1&wvr=6
-  ZhiHu: https://www.zhihu.com/people/schaffer.me/activities
+  GitHub: https://github.com/SchafferWang0818 <br>
+  Weibo: https://weibo.com/5055805571/profile?topnav=1&wvr=6 <br>
+  ZhiHu: https://www.zhihu.com/people/schaffer.me/activities <br>
+  E-Mail: schafferwang@yahoo.com
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
@@ -65,7 +66,7 @@ tag_map:
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+time_format: HH:mm
 
 # Pagination
 ## Set per_page to 0 to disable pagination

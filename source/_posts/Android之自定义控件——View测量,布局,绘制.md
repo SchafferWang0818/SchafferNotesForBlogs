@@ -1,6 +1,6 @@
 ---
 
-title: 控件的测量,布局,绘制过程
+title: Android自定义控件之测量,布局,绘制过程
 categories: "android 总结"
 tags: 
      - android

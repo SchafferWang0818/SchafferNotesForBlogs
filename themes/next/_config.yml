@@ -145,11 +145,12 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
+links_title: 友情链接
 links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  ios大神_廖坚的性福生活: http://www.liaojian.top/
+  前端大牛_胡璠的性福生活: https://blog.ihoey.com/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -182,8 +183,8 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
-  #display: always
+  #display: post
+  display: always
   #display: hide
   #display: remove
 
