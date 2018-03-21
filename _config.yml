@@ -1,4 +1,4 @@
-﻿# Hexo Configuration
+# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
@@ -9,18 +9,16 @@ description: 我要一步一步往上爬<br>只待阳光静静看着它的脸<br
 author: SchafferWang
 language: zh-CN
 avatar: "https://i.imgur.com/hwLvP2j.jpg"
-
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://SchafferWang0818.github.io
-root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults: 
-
 social:
   GitHub: https://github.com/SchafferWang0818
   Weibo: https://weibo.com/5055805571/profile?topnav=1&wvr=6
   ZhiHu: https://www.zhihu.com/people/schaffer.me/activities
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: http://yoursite.com
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
 
 # Directory
 source_dir: source
@@ -67,7 +65,7 @@ tag_map:
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
-time_format: HH:mm
+time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
